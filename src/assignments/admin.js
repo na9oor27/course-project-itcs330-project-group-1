@@ -1,6 +1,6 @@
 /*
   Requirement: Make the "Manage Assignments" page interactive.
-
+// n
   Instructions:
   1. This file is already linked to `admin.html` via:
          <script src="admin.js" defer></script>
